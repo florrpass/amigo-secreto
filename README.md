@@ -32,6 +32,6 @@ cd amigo-secreto
 
 **Si prefieres probar la aplicación sin necesidad de descargar nada, accede a la versión en línea**
 
-
+[Acceder al sitio](https://amigo-secreto-omega-sandy.vercel.app/)
 
 
